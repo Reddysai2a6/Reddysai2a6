@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reddysai2a6
 - 👀 I’m interested in python developer 
 - 🌱 I’m currently learning python language 
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on software industry 
 - 📫 How to reach me via reddysai9347@gmail 
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ...
