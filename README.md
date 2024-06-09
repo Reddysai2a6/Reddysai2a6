@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python language 
 - 💞️ I’m looking to collaborate on software industry 
 - 📫 How to reach me via reddysai9347@gmail 
-- 😄 Pronouns: ..
+- 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
 <!---
